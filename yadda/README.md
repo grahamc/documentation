@@ -1,0 +1,6 @@
+# Yadda Yadda
+
+More content here....
+
+Maybe throw in an `/assets` directory and get hot with some images...
+
