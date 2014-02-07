@@ -2,6 +2,10 @@
 
 This is a simple proposal for writing documentation on GitHub.
 
+Its like the future of doc-writing.
+
+![Documentation-Express][futurama]
+
 Advantages:
 
   - The only cost is one private (or public, if that is your thing,) repository
@@ -17,6 +21,8 @@ Advantages:
   - Read more on [frobulating][frobulator]
   - Read more on [yadda yadda][yadda]
 
+
+[futurama]: /assets/root/futurama.jpg
 [frobulator]: /frobulator
 [yadda]: /yadda
 
