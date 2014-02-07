@@ -17,6 +17,6 @@ Advantages:
   - Read more on [frobulating][frobulator]
   - Read more on [yadda yadda][yadda]
 
-[frobulating]: /frobulator
+[frobulator]: /frobulator
 [yadda]: /yadda
 
